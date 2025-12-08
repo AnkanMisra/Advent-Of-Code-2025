@@ -1,0 +1,10 @@
+# Ignore all Java compiled class files
+*.class
+
+# Ignore inner and anonymous class files
+*$*.class
+
+# (Optional) Ignore common Java build artifacts
+target/
+bin/
+out/
